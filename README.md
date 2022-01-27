@@ -1,15 +1,11 @@
-# Meditation App UI
+# Müzik Çalar Meditasyon Uygulaması
 
-## [Watch it on YouTube](https://www.youtube.com/watch?v=8LzXv-INIiQ)
+Medi Flutter ve Dart ile programlanmış bir meditasyon uygulamasıdır.Uygulamada meditasyon örnekleri ve modunuza göre müzik listeleri bulunmaktadır.
 
+Sayfa tasarımları bulunan uygulamalar örnek alınarak yapılmıştır.
 
-Meditation App UI using flutter with music player.
+![image](https://user-images.githubusercontent.com/49057258/151439065-641e192c-cca4-405f-bc04-e2b15a24d443.png)
+![image](https://user-images.githubusercontent.com/49057258/151439084-7897ee79-39b7-4248-b9af-9c16bd6ba9be.png)
+![image](https://user-images.githubusercontent.com/49057258/151439124-818fad5f-d190-40be-94a6-cbc646bafb67.png)
+![image](https://user-images.githubusercontent.com/49057258/151439215-1f47b7cb-de0a-4e42-bbec-6dfdb93104c5.png)
 
-### :heart: Found this project useful?
-
-If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
-
-### Drink Order App UI
-
-![App UI](/allscr.png)
-![App UI](/medithumb.png)
